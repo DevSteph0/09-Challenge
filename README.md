@@ -37,4 +37,8 @@ Stephen Oun
 
 ## Questions:
 - Github: [undefined](https://github.com/DevSteph0/09-Challenge)
+  https://github.com/DevSteph0
 - Email: [undefined](stephenounisapanda@gmail.com) 
+  stephenounisapanda@gmail.com
+  
+ Side note feel free to use my repo as refrence to learn and create a better generator HAPPY CODING !!
