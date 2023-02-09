@@ -1,30 +1,35 @@
-# 09-Challenge
+09HW-README generator
 
-Hi! Currently stuck on the README generator will troubleshoot soon
+## Table of Contents 
+- [Title](#title)
+- [License](#license)
+- [Description](#description)
+- [Installation](#installation)
+- [Future](#future)
+- [Name](#name)
+- [Questions](#questions)
 
-*Below is a mockup of what README genertaor should accomplish*
+## License:
+n/a
 
-Licenses
+## Description:
 
-Table of contents
--Tittle
--Description
--Installation
--Issues & Debugging
-
-Tittle
--
-
-Descriptiom
--
-
-Installatiion
--
-
-Issues & Debugging
--
+Very quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the projects and to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. Review the Professional README Guide as a reminder of everything that a high-quality, professional README should contain.
+The application will be invoked by using the following command:
 
 
-Contact
--(user's) Github
--(user's) Email
+## Installation:
+
+first input node index.js into the terminal to start (i forgot to mention in the video)
+
+## Future:
+
+More options in read me generator so user are able to make their audience fully understand their concept of the project their potentially trying to create.
+
+## Name:
+
+Stephen Oun
+
+## Questions:
+- Github: [undefined](https://github.com/DevSteph0/09-Challenge)
+- Email: [undefined](stephenounisapanda@gmail.com) 
